@@ -4,6 +4,8 @@ Repositório oficial da disciplina **Otimização 2026 - Programa de Pós-Gradua
 
 Este repositório será utilizado para disponibilização de materiais, atividades e submissão dos trabalhos pelos alunos.
 
+Link turma whatsapp: https://chat.whatsapp.com/Jhe0vKPwNovJpLTXjmY8Iu
+
 ---
 
 ## 📁 Estrutura do Repositório
